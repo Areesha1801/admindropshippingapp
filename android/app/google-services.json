@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "663041556217",
+    "firebase_url": "https://flutter-apps-493ed-default-rtdb.firebaseio.com",
+    "project_id": "flutter-apps-493ed",
+    "storage_bucket": "flutter-apps-493ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663041556217:android:c2109ebaee1181c1d36c28",
+        "android_client_info": {
+          "package_name": "com.example.admindropshippingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663041556217-fhajiu954ql194so60qc9d27lo8kt7ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admindropshippingapp",
+            "certificate_hash": "482a2a3585e09ea0cf3f11453d1f35793c724e7a"
+          }
+        },
+        {
+          "client_id": "663041556217-v67uf22t2a44uj4bbn6b34osdi0eetir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gEpcrrK8DMiUkB8u2R6pdwlcTafNI6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663041556217-v67uf22t2a44uj4bbn6b34osdi0eetir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663041556217:android:adfd855c3ab492a2d36c28",
+        "android_client_info": {
+          "package_name": "com.example.dropshippingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663041556217-4t3jue4ks2qefh2423d2il5nro6svbbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dropshippingapp",
+            "certificate_hash": "482a2a3585e09ea0cf3f11453d1f35793c724e7a"
+          }
+        },
+        {
+          "client_id": "663041556217-v67uf22t2a44uj4bbn6b34osdi0eetir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gEpcrrK8DMiUkB8u2R6pdwlcTafNI6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663041556217-v67uf22t2a44uj4bbn6b34osdi0eetir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663041556217:android:70594629917769fdd36c28",
+        "android_client_info": {
+          "package_name": "com.example.weatherappdraft1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663041556217-2gab0nr7etkjkktqv1b8mq3i364o4gro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weatherappdraft1",
+            "certificate_hash": "482a2a3585e09ea0cf3f11453d1f35793c724e7a"
+          }
+        },
+        {
+          "client_id": "663041556217-v67uf22t2a44uj4bbn6b34osdi0eetir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gEpcrrK8DMiUkB8u2R6pdwlcTafNI6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663041556217-v67uf22t2a44uj4bbn6b34osdi0eetir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
